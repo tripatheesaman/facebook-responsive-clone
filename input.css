@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+.offscreen {
+  position: absolute;
+  left: -1000000px;
+}
+@tailwind utilities;
